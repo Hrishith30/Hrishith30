@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Hrishith30
+- 👋 Hi, I’m Hrishith Raj Reddy Malgireddy
 - 👀 I’m interested in Fullstack, AI/ML and Cyber Security
 - 🌱 I’m currently working as Research Assistant in University of Missouri
