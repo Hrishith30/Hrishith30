@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hrishith Raj Reddy Malgireddy! 👋</h1>
 
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Advocate</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cybersecurity</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
