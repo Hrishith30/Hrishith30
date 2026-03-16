@@ -1,87 +1,71 @@
-<div align="center">
-  <h1 align="center">Hi there, I'm Hrishith Raj Reddy Malgireddy! 👋</h1>
-  <h3 align="center">Software Engineer | Full-Stack (MERN) | AI/ML | Secure Systems</h3>
-</div>
+<h1 align="center">Hi there, I'm Hrishith Raj Reddy Malgireddy! 👋</h1>
 
-<br />
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Advocate</h3>
 
-<div align="center">
-  <table border="1" cellpadding="15" cellspacing="0" width="80%">
-    <tr>
-      <td bgcolor="#0d1117" align="left">
-        <code>
-          <span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">developer</span> <span style="color: #ff7b72;">=</span> {<br />
-          &nbsp;&nbsp;<span style="color: #a5d6ff;">name:</span> <span style="color: #a5d6ff;">"Hrishith Raj Reddy Malgireddy"</span>,<br />
-          &nbsp;&nbsp;<span style="color: #a5d6ff;">roles:</span> [<span style="color: #a5d6ff;">"Research Assistant @ Mizzou"</span>, <span style="color: #a5d6ff;">"Cybersecurity TA"</span>],<br />
-          &nbsp;&nbsp;<span style="color: #a5d6ff;">passions:</span> [<span style="color: #a5d6ff;">"Full-Stack Dev"</span>, <span style="color: #a5d6ff;">"AI/ML"</span>, <span style="color: #a5d6ff;">"Cloud/DevOps"</span>],<br />
-          &nbsp;&nbsp;<span style="color: #a5d6ff;">focus:</span> <span style="color: #a5d6ff;">"User-centered, secure, and maintainable software"</span><br />
-          };
-        </code>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Development+(MERN);AI+%26+Machine+Learning;Secure+Software+Systems;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
-<br />
+---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+### 👨‍💻 About Me
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" width="100%">
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <h3>💻 Frontend & Mobile</h3>
-        <p>React, React Native</p>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <h3>⚙️ Backend & APIs</h3>
-        <p>Node.js, Express, Python, Flask, FastAPI</p>
-      </td>
-      <td width="34%" align="center" valign="top">
-        <h3>🗄️ Databases</h3>
-        <p>PostgreSQL, MongoDB, SQL</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <h3>☁️ Cloud & DevOps</h3>
-        <p>AWS, Docker, Kubernetes</p>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <h3>🔒 Security & Data</h3>
-        <p>Risk Assessment, Secure Coding, HIPAA, FHIR</p>
-      </td>
-      <td width="34%" align="center" valign="top">
-        <h3>🤖 Machine Learning</h3>
-        <p>AI Integration, ML Modeling</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<details>
+<summary><strong> 🌟 The Short Version (Click to expand!) </strong></summary>
+<br>
+I am a software engineer passionate about bridging the gap between innovative functionality and rock-solid security. From building scalable React applications to handling sensitive healthcare data, I focus on creating user-centered, maintainable software.
+</details>
 
-<br />
+* **🎓 Background:** Research Assistant at the **University of Missouri**, building web and mobile applications from the ground up.
+* **🔒 Security First:** Former TA for Advanced Cybersecurity—bringing hands-on experience in risk assessment, secure coding, and security best practices to every project.
+* **⚕️ Niche Expertise:** Experience handling complex, highly regulated healthcare data (**FHIR, HIPAA**).
+* **🌱 Currently exploring:** Deeper integrations of AI/ML into secure, cloud-native environments.
 
-<h2 align="center">👨‍💻 Professional Experience</h2>
+---
 
-<table border="0" cellpadding="10" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 University of Missouri</h3>
-      <b>Research Assistant</b><br />
-      <i>Built web and mobile applications from the ground up, implementing backend APIs and managing relational/NoSQL databases.</i>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Advanced Cybersecurity</h3>
-      <b>Teaching Assistant</b><br />
-      <i>Guided students through security best practices, risk assessment methodologies, and secure coding principles.</i>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Stack & Tools
 
-<br />
+**Frontend & Mobile** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+
+**Backend & APIs** <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+
+**Databases** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Cloud & DevOps** <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <h2>📫 Let's Connect</h2>
-  <a href="mailto:hrishithrajreddy22@gmail.com"><img src="https://img.shields.io/badge/Email-hrishithrajreddy22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/hrishith-raj-reddy-malgireddy-919750262/"><img src="https://img.shields.io/badge/LinkedIn-Hrishith%20Raj%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Hrishith30">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hrishith30&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/Hrishith30">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishith30&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Hrishith30">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishith30&theme=radical" alt="GitHub Contribution Streak" />
+  </a>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="mailto:hrishithrajreddy22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hrishith-raj-reddy-malgireddy-919750262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
