@@ -19,7 +19,7 @@ I am a software engineer passionate about bridging the gap between innovative fu
 </details>
 
 * **🎓 Background:** Research Assistant at the **University of Missouri**, building web and mobile applications from the ground up.
-* **🔒 Security First:** Former TA for Advanced Cybersecurity—bringing hands-on experience in risk assessment, secure coding, and security best practices to every project.
+* **🔒 Security First:** Former TA for Advanced Cybersecurity bringing hands-on experience in risk assessment, secure coding, and security best practices to every project.
 * **⚕️ Niche Expertise:** Experience handling complex, highly regulated healthcare data (**FHIR, HIPAA**).
 * **🌱 Currently exploring:** Deeper integrations of AI/ML into secure, cloud-native environments.
 
