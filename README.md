@@ -40,7 +40,7 @@ I am a software engineer passionate about bridging the gap between innovative fu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Hrishith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrishith30&show_icons=true&theme=radical" alt="Hrishith's GitHub Stats" />
 </p>
 
 ---
