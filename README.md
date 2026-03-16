@@ -37,11 +37,25 @@ I am a software engineer passionate about bridging the gap between innovative fu
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishith30&show_icons=true&theme=radical" alt="Hrishith's GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/Hrishith30">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hrishith30&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/Hrishith30">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishith30&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Hrishith30">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishith30&theme=radical" alt="GitHub Contribution Streak" />
+  </a>
+</div>
 
 ---
 
